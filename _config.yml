@@ -7,12 +7,12 @@
 
 # Site settings
 title:       Ars Scientia
-email:       ''
-description: ''
+email:       'infoarsscientia@gmail.com'
+description: 'We are a graphics design company specialized in scientific and technical content.'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         '' # The base hostname & protocol for your site
 twitter:     ''
-github:      ''
+github:      'https://github.com/ArsScientia'
 instagram:   ''
 facebook:    ''
 
