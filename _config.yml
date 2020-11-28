@@ -11,9 +11,9 @@ email:       'infoarsscientia@gmail.com'
 description: 'We are a graphics design company specialized in scientific and technical content.'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         '' # The base hostname & protocol for your site
-twitter:     ''
+#twitter:     ''
 github:      'https://github.com/ArsScientia'
-instagram:   ''
+#instagram:   ''
 facebook:    ''
 
 markdown:  kramdown
