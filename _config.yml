@@ -14,7 +14,7 @@ url:         '' # The base hostname & protocol for your site
 #twitter:     ''
 github:      'https://github.com/ArsScientia'
 #instagram:   ''
-facebook:    ''
+facebook:    'https://www.facebook.com/ars.scientia.7549'
 
 markdown:  kramdown
 permalink: pretty
