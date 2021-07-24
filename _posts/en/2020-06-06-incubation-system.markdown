@@ -3,6 +3,7 @@ layout: post
 title: Incubation System
 tags: [diagrams, illustrations, laboratory]
 image: '/images/posts/incubation-system.png'
+lang: en
 ---
 
 This diagram depicts a laboratory incubation system with its main components. It was commissioned by the Max Planck Institute for Biogeochemistry.

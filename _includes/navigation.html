@@ -1,9 +1,18 @@
-{% for page in site.pages %}
-  {% unless page.name == '404.md' %}
-    {% if page.title %}
-      <li class='c-nav__item' role='presentation'>
-        <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a>
-      </li>
-    {% endif %}
-  {% endunless %}
-{% endfor %}
+
+
+   <li class='c-nav__item' role='presentation'> 
+      {% assign pages_list = site.pages %}
+      {% assign written = "" | split: '' %}
+      {% for node in pages_list %}
+        {% if written contains node.title %}
+          {% continue %}
+        {% endif %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="c-nav__link{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% assign written = written | push: node.title %} 
+        {% endif %}
+      {% endfor %}
+   </li> 
+

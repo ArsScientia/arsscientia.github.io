@@ -2,6 +2,9 @@
 layout: page
 title: Services
 image: '/images/pages/Mutis35.jpg'
+permalink: /services/
+lang: en
+
 ---
 
 ## Products

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Cubo de Datos Regional			
+tags: [diagrams, illustrations, laboratory]
+image: '/images/posts/datacube.png'
+lang: es
+---
+
+Este diagrama muestra el flujo de trabajo para la producción del Cubo de Datos Regional para el norte de Sur América. 
+El diagrama aparecio publicado en la revista *Frontiers in Earth Science* y se puede leer en este enlace: [https://doi.org/10.3389/feart.2021.613395]{https://doi.org/10.3389/feart.2021.613395}.
+
+This diagram depicts the workflow for the production of the Regional Earth System Data Lab developed at the Max Planck Institute for Biogeochemistry by Lina Estupiñan-Suarez.
+

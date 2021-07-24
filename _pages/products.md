@@ -2,6 +2,9 @@
 layout: page
 title: Products
 #image: '/images/pages/FA42.jpg'
+permalink: /products/
+lang: en
+
 ---
 
 We produce high-quality calendars with scientific graphics as well as fine art prints. Our aim is to disseminate scientific content in beautiful products, balancing the connection between science and art.

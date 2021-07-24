@@ -8,7 +8,9 @@
 # Site settings
 title:       Ars Scientia
 email:       'infoarsscientia@gmail.com'
-description: 'We are a graphics design company specialized in scientific and technical content.'
+description: 
+  en: 'We are a graphics design company specialized in scientific and technical content.'
+  es: 'Somos una compañia de diseño gráfico especializada en contenido científico y técnico'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         '' # The base hostname & protocol for your site
 #twitter:     ''
@@ -26,6 +28,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll/tagging
+  - jekyll-polyglot
 
 include:
   - _pages
@@ -46,3 +49,10 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+
+# Polyglot config
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["js", "images", "admin"]
+parallel_localization: true
+

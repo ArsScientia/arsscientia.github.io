@@ -2,6 +2,9 @@
 layout: page
 title: About
 image: '/images/pages/MutisA01005.jpg'
+permalink: /about/
+lang: en
+
 ---
 
 Ars Scientia provides graphic design services for scientists, engineers, and medical professionals. 

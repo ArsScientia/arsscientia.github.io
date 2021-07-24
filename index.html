@@ -2,11 +2,13 @@
 layout: default
 ---
 
+{% assign lang = site.active_lang %}
+
 <div class='o-wrapper'>
   <div class='o-grid'>
     <img src="{{ site.baseurl}}/images/pages/MutisA00610.jpg" alt="Expedicion botanica">  
   </div>
   <div class='o-grid'>
-  <p> <i>We are Ars Scientia, a graphic design company specialized in scientific and technical content.</i> </p>
+  <p> <i> {{ site.description[lang] }} </i> </p>
   </div>
 </div>

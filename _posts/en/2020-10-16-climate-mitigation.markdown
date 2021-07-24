@@ -3,6 +3,7 @@ layout: post
 title: Forest management and climate mitigation			
 tags: [diagrams]
 image: '/images/posts/climateMitigation.png'
+lang: en
 ---
 
 This simple diagram was used as a graphical abstract to show how forest management can be used to mitigate climate change. 

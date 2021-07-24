@@ -3,6 +3,7 @@ layout: post
 title: Regional Earth System Data Lab			
 tags: [diagrams, illustrations, laboratory]
 image: '/images/posts/datacube.png'
+lang: en
 ---
 
 This diagram depicts the workflow for the production of the Regional Earth System Data Lab developed at the Max Planck Institute for Biogeochemistry by Lina Estupiñan-Suarez.
