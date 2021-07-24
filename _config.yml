@@ -20,7 +20,7 @@ facebook:    'https://www.facebook.com/ars.scientia.7549'
 
 markdown:  kramdown
 permalink: pretty
-paginate:  10
+paginate:  5
 
 sass:
   style: compressed
@@ -37,6 +37,7 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+  - docs/
 
 # Tags
 tag_page_dir:         tag

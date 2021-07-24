@@ -3,10 +3,10 @@
   <channel>
     <title>Ars Scientia</title>
     <description>{&quot;en&quot;=&gt;&quot;We are a graphics design company specialized in scientific and technical content.&quot;, &quot;es&quot;=&gt;&quot;Somos una compañia de diseño gráfico especializada en contenido científico y técnico&quot;}</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Jul 2021 19:47:22 +0200</pubDate>
-    <lastBuildDate>Sat, 24 Jul 2021 19:47:22 +0200</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 24 Jul 2021 20:28:56 +0200</pubDate>
+    <lastBuildDate>Sat, 24 Jul 2021 20:28:56 +0200</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
 
     
@@ -18,8 +18,8 @@
 
 </description>
         <pubDate>Thu, 28 Jan 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2021/01/28/starchStorage/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/01/28/starchStorage/</guid>
+        <link>/2021/01/28/starchStorage/</link>
+        <guid isPermaLink="true">/2021/01/28/starchStorage/</guid>
       </item>
     
       <item>
@@ -31,8 +31,8 @@ It appeared published in the journal &lt;em&gt;Global Change Biology – Bioener
 
 </description>
         <pubDate>Fri, 16 Oct 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2020/10/16/climate-mitigation/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/10/16/climate-mitigation/</guid>
+        <link>/2020/10/16/climate-mitigation/</link>
+        <guid isPermaLink="true">/2020/10/16/climate-mitigation/</guid>
       </item>
     
       <item>
@@ -41,8 +41,8 @@ It appeared published in the journal &lt;em&gt;Global Change Biology – Bioener
 
 </description>
         <pubDate>Thu, 03 Sep 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2020/09/03/datacube/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/09/03/datacube/</guid>
+        <link>/2020/09/03/datacube/</link>
+        <guid isPermaLink="true">/2020/09/03/datacube/</guid>
       </item>
     
       <item>
@@ -55,8 +55,8 @@ It appeared published in the journal &lt;em&gt;Global Change Biology – Bioener
 
 </description>
         <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2020/06/06/incubation-system/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/06/06/incubation-system/</guid>
+        <link>/2020/06/06/incubation-system/</link>
+        <guid isPermaLink="true">/2020/06/06/incubation-system/</guid>
       </item>
     
       <item>
@@ -67,8 +67,8 @@ It appeared published in the journal &lt;em&gt;Global Change Biology – Bioener
 
 </description>
         <pubDate>Wed, 20 May 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2020/05/20/open-closed-system/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/05/20/open-closed-system/</guid>
+        <link>/2020/05/20/open-closed-system/</link>
+        <guid isPermaLink="true">/2020/05/20/open-closed-system/</guid>
       </item>
     
 
@@ -88,7 +88,7 @@ For scientific publications, we offer full support from idea to final print; mak
 &lt;p&gt;We are based in Medellín, Colombia. Our clients are scientists from all over the world. Please get in touch with us to discuss your graphical project.&lt;/p&gt;
 
 </description>
-            <link>http://localhost:4000/about/</link>
+            <link>/about/</link>
           </item>
         
       
@@ -115,7 +115,7 @@ For scientific publications, we offer full support from idea to final print; mak
 &lt;/div&gt;
 
 </description>
-            <link>http://localhost:4000/portfolio/</link>
+            <link>/portfolio/</link>
           </item>
         
       
@@ -149,7 +149,7 @@ You can order our products online by sending us an email. Some of our products a
 
 &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.303912025669!2d-75.57613033410587!3d6.22359932830085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbce652e7fed6145!2sTienda%20de%20Regalos%20Mamm%20Museo%20de%20Arte%20Moderno%20de%20Medell%C3%ADn!5e0!3m2!1sen!2sde!4v1612025298618!5m2!1sen!2sde&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; aria-hidden=&quot;false&quot; tabindex=&quot;0&quot;&gt;&lt;/iframe&gt;
 </description>
-            <link>http://localhost:4000/products/</link>
+            <link>/products/</link>
           </item>
         
       
@@ -178,7 +178,7 @@ We have two options to charge for our services:
 1. Pay as you go. With graphics starting at €100 each.
 2. Subscription. You can obtain an annual subscription with the possibility of obtaining 3, 5, or 10 graphics annually. We support you from the time of graphic conception until final publication in a scientific journal.  
 </description>
-            <link>http://localhost:4000/services/</link>
+            <link>/services/</link>
           </item>
         
       
