@@ -37,6 +37,10 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+  - _pages/about.es.md
+  - _pages/portfolio.es.md
+  - _pages/products.es.md
+  - _pages/services.es.md
 
 # Tags
 tag_page_dir:         tag
