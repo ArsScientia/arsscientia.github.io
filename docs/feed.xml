@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ars Scientia</title>
+    <description>{&quot;en&quot;=&gt;&quot;We are a graphics design company specialized in scientific and technical content.&quot;, &quot;es&quot;=&gt;&quot;Somos una compañia de diseño gráfico especializada en contenido científico y técnico&quot;}</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 24 Jul 2021 19:47:22 +0200</pubDate>
+    <lastBuildDate>Sat, 24 Jul 2021 19:47:22 +0200</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+
+    
+      <item>
+        <title>Starch storage in tropical trees</title>
+        <description>&lt;p&gt;This figure shows the location of grains of starch stored in parenchyma cells. It was produced using microscopic pictures with illustrations and text. It was published in the journal &lt;em&gt;New Phyotologist&lt;/em&gt;. The complete citation is:&lt;/p&gt;
+
+&lt;p&gt;Herrera‐Ramirez, D., Sierra, C.A., Römermann, C., Muhr, J., Trumbore, S., Silvério, D., Brando, P.M. and Hartman, H. (2021), Starch and lipid storage strategies in tropical trees relate to growth and mortality. New Phytologist 229. &lt;a href=&quot;https://doi.org/10.1111/nph.17239&quot;&gt;https://doi.org/10.1111/nph.17239&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 Jan 2021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2021/01/28/starchStorage/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/28/starchStorage/</guid>
+      </item>
+    
+      <item>
+        <title>Forest management and climate mitigation</title>
+        <description>&lt;p&gt;This simple diagram was used as a graphical abstract to show how forest management can be used to mitigate climate change. 
+It appeared published in the journal &lt;em&gt;Global Change Biology – Bioenergy&lt;/em&gt;. The complete reference is:&lt;/p&gt;
+
+&lt;p&gt;Schulze, E.‐D., Sierra, C., Egenolf, V., Woerdehoff, R., Irsinger, R., Baldamus, C., Stupak, I. and Spellmann, H. (2021), Forest management contributes to climate mitigation by reducing fossil fuel consumption: A response to the letter by Welle et al.. GCB Bioenergy, 13: 288-290.&lt;a href=&quot;https://doi.org/10.1111/gcbb.12754&quot;&gt;https://doi.org/10.1111/gcbb.12754&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 16 Oct 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020/10/16/climate-mitigation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/16/climate-mitigation/</guid>
+      </item>
+    
+      <item>
+        <title>Regional Earth System Data Lab</title>
+        <description>&lt;p&gt;This diagram depicts the workflow for the production of the Regional Earth System Data Lab developed at the Max Planck Institute for Biogeochemistry by Lina Estupiñan-Suarez.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Sep 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020/09/03/datacube/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/03/datacube/</guid>
+      </item>
+    
+      <item>
+        <title>Incubation System</title>
+        <description>&lt;p&gt;This diagram depicts a laboratory incubation system with its main components. It was commissioned by the Max Planck Institute for Biogeochemistry.&lt;/p&gt;
+
+&lt;p&gt;We worked together with the scientist who ran the experiment, who first gave us an initial diagram in Power Point, together with some pictures of the measurement intruments. We moved all graphical content to vector graphics and created different versions that were discussed with the scientists.&lt;/p&gt;
+
+&lt;p&gt;This version has been already used in scientific presentations, and is part of a research manuscript currently under preparation.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020/06/06/incubation-system/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/06/incubation-system/</guid>
+      </item>
+    
+      <item>
+        <title>Earth as an open and a closed system</title>
+        <description>&lt;p&gt;This simple graphic depicts the concept that planet Earth is an open system with respect to energy flows, but a closed system with respect to mass transfers. One important aspect that this figure tries to depict is that material flow is fundamental for the sustainability of life on Earth. This material flow can only occurs because solar energy is used to drive biogeochemical cycling.&lt;/p&gt;
+
+&lt;p&gt;This graphic was comissioned by the Max Planck Institute for Biogeochemistry.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 20 May 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020/05/20/open-closed-system/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/20/open-closed-system/</guid>
+      </item>
+    
+
+    
+      
+        
+      
+    
+      
+        
+          <item>
+            <title>About</title>
+            <description>&lt;p&gt;Ars Scientia provides graphic design services for scientists, engineers, and medical professionals. 
+We specialize in technical content to effectively diseminate complex ideas for scientific articles, websites, and posters.
+For scientific publications, we offer full support from idea to final print; making all required edits until the graphical work goes to print.&lt;/p&gt;
+
+&lt;p&gt;We are based in Medellín, Colombia. Our clients are scientists from all over the world. Please get in touch with us to discuss your graphical project.&lt;/p&gt;
+
+</description>
+            <link>http://localhost:4000/about/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>Portfolio</title>
+            <description>&lt;div class='o-wrapper'&gt;
+  &lt;div class='o-grid'&gt;
+
+    {% for post in site.posts %}
+      {% include post-card.liquid %}
+    {% endfor %}
+  &lt;/div&gt;
+
+  &lt;div class='o-grid'&gt;
+    {% include pagination.html %}
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+            <link>http://localhost:4000/portfolio/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Products</title>
+            <description>We produce high-quality calendars with scientific graphics as well as fine art prints. Our aim is to disseminate scientific content in beautiful products, balancing the connection between science and art.
+
+## Prints
+![Print](/images/pages/printsAves.jpg)
+
+Giclée prints can be ordered on page sizes: A5, A4, A3, and A3+. We can print in museum grade (Hanemühle) paper for archival. We can ship prints anywhere in the world. Get in contact with us for prices.
+
+You can see catalogs of our collections by clicking in the following links:
+
+&lt;!-- &lt;embed src=&quot;/images/catalogFloreAmerique.pdf&quot; type=&quot;application/pdf&quot; /&gt; --&gt;
+* &lt;a href=&quot;/images/catalogFloreAmerique.pdf&quot; target=&quot;_blank&quot; &gt; Flore d'Amerique &lt;/a&gt;
+* &lt;a href=&quot;/images/catalogExoticOrnithology.pdf&quot; target=&quot;_blank&quot; &gt; Exotic Ornithology &lt;/a&gt;
+* &lt;a href=&quot;/images/catalogMutis.pdf&quot; target=&quot;_blank&quot; &gt; Expedición Botánica &lt;/a&gt;
+
+## Calendars
+
+![Calendario Ornitología Exotica](/images/pages/calendarOrnitologiaExotica.png)
+
+We have a series of calendars based on vintage scientific images. Wall and desk calendars are available for a collection of birds from the book *Exotic Ornitology* of Sclater &amp; Salvin, and plants from the collection of lithographies from Étienne Denisse's Flore d'Amerique.   
+
+## Where to buy
+You can order our products online by sending us an email. Some of our products are also exhibited at the Museum of Modern Art in Medellín, Colombia.
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.303912025669!2d-75.57613033410587!3d6.22359932830085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbce652e7fed6145!2sTienda%20de%20Regalos%20Mamm%20Museo%20de%20Arte%20Moderno%20de%20Medell%C3%ADn!5e0!3m2!1sen!2sde!4v1612025298618!5m2!1sen!2sde&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; aria-hidden=&quot;false&quot; tabindex=&quot;0&quot;&gt;&lt;/iframe&gt;
+</description>
+            <link>http://localhost:4000/products/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Services</title>
+            <description>## Products
+
+At Ars Scientia we offer the following services:
+
+* Design and production of graphics for scientific and technical content with publishing quality.
+* Enhancement of photos and raster images.
+* Graphical abstracts.
+* Cover images for journals.
+* Poster design.
+* Logos
+
+---
+
+## Costs
+
+We have two options to charge for our services:
+
+1. Pay as you go. With graphics starting at €100 each.
+2. Subscription. You can obtain an annual subscription with the possibility of obtaining 3, 5, or 10 graphics annually. We support you from the time of graphic conception until final publication in a scientific journal.  
+</description>
+            <link>http://localhost:4000/services/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+
+  </channel>
+</rss>

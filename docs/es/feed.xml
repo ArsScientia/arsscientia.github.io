@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ars Scientia</title>
+    <description>{&quot;en&quot;=&gt;&quot;We are a graphics design company specialized in scientific and technical content.&quot;, &quot;es&quot;=&gt;&quot;Somos una compañia de diseño gráfico especializada en contenido científico y técnico&quot;}</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/es/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 24 Jul 2021 19:47:22 +0200</pubDate>
+    <lastBuildDate>Sat, 24 Jul 2021 19:47:22 +0200</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+
+    
+      <item>
+        <title>Almacenamiento de Almidón en Celulas de Madera</title>
+        <description>&lt;p&gt;Esta figura muestra la ubicación de los granos de almidón almacenados en las células del parénquima. Se elaboró utilizando imágenes microscópicas con ilustraciones y texto. Se publicó en la revista &lt;em&gt;New Phyotologist&lt;/em&gt;. La cita completa es:&lt;/p&gt;
+
+&lt;p&gt;Herrera‐Ramirez, D., Sierra, C.A., Römermann, C., Muhr, J., Trumbore, S., Silvério, D., Brando, P.M. and Hartman, H. (2021), Starch and lipid storage strategies in tropical trees relate to growth and mortality. New Phytologist 229. &lt;a href=&quot;https://doi.org/10.1111/nph.17239&quot;&gt;https://doi.org/10.1111/nph.17239&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 Jan 2021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2021/01/28/starchStorage/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/28/starchStorage/</guid>
+      </item>
+    
+      <item>
+        <title>Manejo Forestal y Mitigación del Cambio Climático</title>
+        <description>&lt;p&gt;Este sencillo diagrama se utilizó como resumen gráfico para mostrar cómo puede utilizarse la gestión forestal para mitigar el cambio climático.
+Apareció publicado en la revista &lt;em&gt;Global Change Biology – Bioenergy&lt;/em&gt;. La referencia completa es:&lt;/p&gt;
+
+&lt;p&gt;Schulze, E.‐D., Sierra, C., Egenolf, V., Woerdehoff, R., Irsinger, R., Baldamus, C., Stupak, I. and Spellmann, H. (2021), Forest management contributes to climate mitigation by reducing fossil fuel consumption: A response to the letter by Welle et al.. GCB Bioenergy, 13: 288-290.&lt;a href=&quot;https://doi.org/10.1111/gcbb.12754&quot;&gt;https://doi.org/10.1111/gcbb.12754&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 16 Oct 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020/10/16/climate-mitigation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/16/climate-mitigation/</guid>
+      </item>
+    
+      <item>
+        <title>Cubo de Datos Regional</title>
+        <description>&lt;p&gt;Este diagrama muestra el flujo de trabajo para la producción del Cubo de Datos Regional para el norte de Sur América. 
+El diagrama aparecio publicado en la revista &lt;em&gt;Frontiers in Earth Science&lt;/em&gt; y se puede leer en este enlace: [https://doi.org/10.3389/feart.2021.613395]{https://doi.org/10.3389/feart.2021.613395}.&lt;/p&gt;
+
+&lt;p&gt;This diagram depicts the workflow for the production of the Regional Earth System Data Lab developed at the Max Planck Institute for Biogeochemistry by Lina Estupiñan-Suarez.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Sep 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020/09/03/datacube/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/03/datacube/</guid>
+      </item>
+    
+      <item>
+        <title>Sistema de Incubación</title>
+        <description>&lt;p&gt;Este diagrama representa un sistema de incubación de laboratorio con sus principales componentes. Fue encargado por el Instituto Max Planck de Biogeoquímica.&lt;/p&gt;
+
+&lt;p&gt;Trabajamos junto con el científico que dirigía el experimento, que primero nos dio un diagrama inicial en Power Point, junto con algunas imágenes de los intrumentos de medición. Trasladamos todo el contenido gráfico a gráficos vectoriales y creamos diferentes versiones que se discutieron con los científicos.&lt;/p&gt;
+
+&lt;p&gt;Esta versión ya se ha utilizado en presentaciones científicas y forma parte de un manuscrito de investigación actualmente en preparación.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020/06/06/incubation-system/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/06/incubation-system/</guid>
+      </item>
+    
+      <item>
+        <title>La Tierra como un sistema abierto</title>
+        <description>&lt;p&gt;Este sencillo gráfico representa el concepto de que el planeta Tierra es un sistema abierto con respecto a los flujos de energía, pero un sistema cerrado con respecto a las transferencias de masa. Un aspecto importante que trata de representar esta figura es que el flujo de materiales es fundamental para la sostenibilidad de la vida en la Tierra. Este flujo de materiales sólo puede producirse porque la energía solar se utiliza para impulsar el ciclo biogeoquímico.&lt;/p&gt;
+
+&lt;p&gt;Este gráfico fue encargado por el Instituto Max Planck de Biogeoquímica.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 20 May 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020/05/20/open-closed-system/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/20/open-closed-system/</guid>
+      </item>
+    
+
+    
+      
+        
+      
+    
+      
+        
+          <item>
+            <title>Acerca</title>
+            <description>&lt;p&gt;Ars Scientia ofrece servicios de diseño gráfico para científicos, ingenieros y profesionales de la medicina.
+Nos especializamos en contenido técnico con el objetivo de divulgar eficazmente ideas complejas para artículos científicos, sitios web y carteles.&lt;/p&gt;
+
+&lt;p&gt;Para las publicaciones científicas, ofrecemos un apoyo completo desde la idea inicial hasta la impresión final; realizando todas las ediciones necesarias hasta que el trabajo gráfico vaya a la imprenta.&lt;/p&gt;
+
+&lt;p&gt;Nuestra sede está en Medellín, Colombia. Nuestros clientes son científicos de todo el mundo y los amantes del arte y la ciencia. Póngase en contacto con nosotros para discutir su proyecto gráfico.&lt;/p&gt;
+
+</description>
+            <link>http://localhost:4000/about/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>Portafolio</title>
+            <description>&lt;div class='o-wrapper'&gt;
+  &lt;div class='o-grid'&gt;
+
+    {% for post in site.posts %}
+      {% include post-card.liquid %}
+    {% endfor %}
+  &lt;/div&gt;
+
+  &lt;div class='o-grid'&gt;
+    {% include pagination.html %}
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+            <link>http://localhost:4000/portfolio/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Productos</title>
+            <description>Producimos calendarios de alta calidad con gráficos científicos, así como impresiones artísticas. Nuestro objetivo es difundir contenidos científicos en productos de gran belleza, equilibrando la conexión entre ciencia y arte.
+
+## Prints
+![Print](/images/pages/printsAves.jpg)
+
+Las impresiones Giclée pueden pedirse en tamaños de página A5, A4, A3 y A3+. Podemos imprimir en papel de calidad de museo (Hanemühle) para archivo. Podemos enviar las impresiones a cualquier parte del mundo. Póngase en contacto con nosotros para conocer los precios.
+
+Puede ver los catálogos de nuestras colecciones haciendo clic en los siguientes enlaces:
+
+&lt;!-- &lt;embed src=&quot;/images/catalogFloreAmerique.pdf&quot; type=&quot;application/pdf&quot; /&gt; --&gt;
+* &lt;a href=&quot;/images/catalogFloreAmerique.pdf&quot; target=&quot;_blank&quot; &gt; Flore d'Amerique &lt;/a&gt;
+* &lt;a href=&quot;/images/catalogExoticOrnithology.pdf&quot; target=&quot;_blank&quot; &gt; Exotic Ornithology &lt;/a&gt;
+* &lt;a href=&quot;/images/catalogMutis.pdf&quot; target=&quot;_blank&quot; &gt; Expedición Botánica &lt;/a&gt;
+
+## Calendarios
+
+![Calendario Ornitología Exotica](/images/pages/calendarOrnitologiaExotica.png)
+
+Tenemos una serie de calendarios basados en imágenes científicas de época. Hay calendarios de pared y de escritorio para una colección de aves del libro *Ornitología exótica* de Sclater &amp; Salvin, y de plantas de la colección de litografías de Flore d'Amerique de Étienne Denisse.
+
+## Donde puedes comprar nuestros productos?
+Puedes pedir nuestros productos en línea enviándonos un correo electrónico. Algunos de nuestros productos también se exponen en la tienda del Museo de Arte Moderno de Medellín, Colombia.
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.303912025669!2d-75.57613033410587!3d6.22359932830085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbce652e7fed6145!2sTienda%20de%20Regalos%20Mamm%20Museo%20de%20Arte%20Moderno%20de%20Medell%C3%ADn!5e0!3m2!1sen!2sde!4v1612025298618!5m2!1sen!2sde&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; aria-hidden=&quot;false&quot; tabindex=&quot;0&quot;&gt;&lt;/iframe&gt;
+</description>
+            <link>http://localhost:4000/products/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Servicios</title>
+            <description>## Servicios
+
+En Ars Scientia ofrecemos los siguientes servicios:
+
+* Diseño y producción de gráficos para contenidos científicos y técnicos con calidad editorial.
+* Mejora de fotografías e imágenes rasterizadas.
+* Resúmenes gráficos.
+* Imágenes de portada para revistas.
+* Diseño de carteles.
+* Logotipos.
+
+---
+
+## Costo
+
+Tenemos dos opciones para cobrar por nuestros servicios:
+
+1. Pago individual. Con gráficos a partir de 100 euros cada uno.
+2. Suscripción. Puede obtener una suscripción anual con la posibilidad de obtener 3, 5 o 10 gráficos anualmente. Le apoyamos desde el momento de la concepción del gráfico hasta su publicación final en una revista científica.
+</description>
+            <link>http://localhost:4000/services/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+
+  </channel>
+</rss>
